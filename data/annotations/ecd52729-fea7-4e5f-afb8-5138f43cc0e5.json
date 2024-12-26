@@ -39,6 +39,22 @@
       ],
       "tags": [],
       "uuid": "78e0efda-e6e7-4da3-a741-860ac31d1a57"
+    },
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "making a comment to see when it shows up"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8102120c-138c-47a9-8e90-3e23cc599557"
     }
   ],
   "set": "Default",
