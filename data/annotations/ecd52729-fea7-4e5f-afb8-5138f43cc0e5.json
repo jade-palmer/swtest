@@ -55,6 +55,48 @@
       ],
       "tags": [],
       "uuid": "8102120c-138c-47a9-8e90-3e23cc599557"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the intro with photos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fur coats, hollywood stars"
+        }
+      ],
+      "uuid": "cd969261-bbbf-4920-8810-f5d6a0bd862b"
+    },
+    {
+      "start_time": 10,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction of interviewer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "credentials, NYU"
+        }
+      ],
+      "uuid": "59b589f2-ef7b-4c15-a5f6-0686c09ac2e3"
     }
   ],
   "set": "Default",
