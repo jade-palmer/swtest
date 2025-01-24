@@ -1,1 +1,61 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"jade-palmer","is_private":false,"title":"SpokenWeb Test","description":"test for spokenweb group annotation project","language":"en","slug":"swtest","creator":"jade-palmer","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"color":"#99AFF2","category":"Layers"}],"tags":[{"category":"_uncategorized_","tag":"fur coats, hollywood stars"},{"category":"_uncategorized_","tag":"credentials, NYU"},{"category":"_uncategorized_","tag":"tag 1"},{"category":"Layers","tag":"Audio description"},{"category":"Layers","tag":"Video description"},{"category":"Layers","tag":"Commentary"}]},"created_at":"2024-12-26T21:27:30.591Z","updated_at":"2025-01-22T20:45:47.550Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "jade-palmer",
+    "is_private": false,
+    "title": "SpokenWeb Test",
+    "description": "test for spokenweb group annotation project",
+    "language": "en",
+    "slug": "swtest",
+    "creator": "jade-palmer",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "color": "#99AFF2",
+          "category": "Layers"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "fur coats, hollywood stars"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "credentials, NYU"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "tag 1"
+        },
+        {
+          "category": "Layers",
+          "tag": "Audio description"
+        },
+        {
+          "category": "Layers",
+          "tag": "Video description"
+        },
+        {
+          "category": "Layers",
+          "tag": "Commentary"
+        }
+      ]
+    },
+    "created_at": "2024-12-26T21:27:30.591Z",
+    "updated_at": "2025-01-24T21:03:27.693Z"
+  }
+}

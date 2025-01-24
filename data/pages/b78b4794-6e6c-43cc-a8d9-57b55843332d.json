@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-24T21:03:27.673Z",
+  "created_by": "jade-palmer",
+  "title": "sw test three",
+  "slug": "sw-test-three",
+  "updated_at": "2025-01-24T21:03:27.673Z",
+  "updated_by": "jade-palmer",
+  "parent": "a651dfb9-e827-4953-aff7-f9098bf232dc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "2f69c09d-5cf5-47b4-86d3-8d924bf570f2"
+  }
+}
