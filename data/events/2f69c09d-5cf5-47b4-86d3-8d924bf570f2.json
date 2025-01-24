@@ -3,7 +3,7 @@
     "43e20039-6eff-4452-abc1-6707501bcaec": {
       "label": "performance poetry party",
       "is_offline": false,
-      "file_url": "https://www.youtube.com/watch?v=9FvUcS-PYQw",
+      "file_url": "https://youtu.be/9FvUcS-PYQw",
       "duration": 6697,
       "caption_set": []
     }
@@ -24,6 +24,6 @@
   "label": "sw test three",
   "created_at": "2025-01-24T21:03:27.538Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-01-24T21:04:57.880Z",
+  "updated_at": "2025-01-24T21:05:42.905Z",
   "updated_by": "jade-palmer"
 }
