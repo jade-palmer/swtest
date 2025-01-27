@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "fd89a25d-d3ac-4f10-9038-179e00ce32a7": {
+      "label": "ppp",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=9FvUcS-PYQw",
+      "duration": 6697,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "another ppp",
+  "created_at": "2025-01-27T20:54:28.095Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-01-27T20:54:28.095Z",
+  "updated_by": "jade-palmer"
+}
