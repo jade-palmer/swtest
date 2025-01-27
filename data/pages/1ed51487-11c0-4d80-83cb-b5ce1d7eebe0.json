@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-27T20:19:00.130Z",
+  "created_by": "jade-palmer",
+  "title": "Performance Poetry Party test",
+  "slug": "performance-poetry-party-test",
+  "updated_at": "2025-01-27T20:19:00.130Z",
+  "updated_by": "jade-palmer",
+  "parent": "a651dfb9-e827-4953-aff7-f9098bf232dc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b581ae1e-0b0c-42a2-84ad-120103ca8113"
+  }
+}
