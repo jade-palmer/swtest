@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "insert scholarly text here"
+        }
+      ]
+    }
+  ],
+  "title": "spokenweb scholarly text test",
+  "parent": "a651dfb9-e827-4953-aff7-f9098bf232dc",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "spokenweb-scholarly-text-test",
+  "created_at": "2025-01-27T21:57:10.134Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-01-27T21:57:10.134Z",
+  "updated_by": "jade-palmer"
+}
