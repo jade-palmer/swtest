@@ -31,10 +31,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "credentials, NYU"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "tag 1"
         },
         {
@@ -60,6 +56,6 @@
       ]
     },
     "created_at": "2024-12-26T21:27:30.591Z",
-    "updated_at": "2025-01-27T19:51:54.749Z"
+    "updated_at": "2025-01-27T19:51:58.839Z"
   }
 }
