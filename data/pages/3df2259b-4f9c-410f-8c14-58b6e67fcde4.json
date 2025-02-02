@@ -9,7 +9,7 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "table-of-contents",
       "children": [
         {
           "text": ""
@@ -20,125 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        2,
-        4
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "horizontal-separator",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "event",
-              "uuid": "b581ae1e-0b0c-42a2-84ad-120103ca8113",
-              "includes": [
-                "media",
-                "annotations",
-                "label",
-                "description"
-              ],
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event-comparison",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "event1": {
-        "uuid": "b581ae1e-0b0c-42a2-84ad-120103ca8113"
-      },
-      "event2": {
-        "uuid": "7e82d66b-a568-4e6e-b914-d415f3c40f98"
-      },
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "scholarly text here"
         }
       ]
     },
@@ -162,6 +44,6 @@
   "slug": "spokenweb-scholarly-text-test",
   "created_at": "2025-01-27T21:57:10.134Z",
   "created_by": "jade-palmer",
-  "updated_at": "2025-02-02T20:20:02.837Z",
+  "updated_at": "2025-02-02T20:39:03.049Z",
   "updated_by": "jade-palmer"
 }
