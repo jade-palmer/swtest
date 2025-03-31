@@ -1,5 +1,77 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Reads obituary for Manuel Betanzos Santos.] | Video Description: Medium shot zooms into closeup as Gotham speaks into the mic. Gotham wears a black-and-white knit sweater with geometric designs and sleeves rolled up to elbows and straight shoulder-length hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers and Performers",
+          "tag": "Lee Gotham"
+        },
+        {
+          "category": "Speakers and Performers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "0ac959a0-c8a6-4cc2-9583-29709bae5135"
+    },
+    {
+      "start_time": 145,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Apologizes for talking about the raffle so much. Encourages people to buy tickets because there are many prizes. Introduces Raymond Filip. Applause.] | Video Description: Closeup as Gotham speaks into the mic, takes white card from off-screen, and reads from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Layers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "4a8b524b-84d4-4d1b-b43a-2d44459f2856"
+    },
+    {
+      "start_time": 257,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Colin Christie and Corey Frost in media res performing a piece about suicide. Alternate between singing songs such as âCrimson and Cloverâ by Tommy James & The Shondells (Roulette, single, 1968), vocally imitating vehicles, and performing the piece. Play the childrenâs clapping game âMiss Mary Mack.â Applause.] | Video Description: Long shot of Christie and Frost performing a piece without mics, singing, walking around the stage area, gesturing, and becoming different characters for an embodied and theatrical performance. Christie wears a light blue long-sleeved plaid shirt open atop a black shirt, a necklace, and light brown hair. Frost wears a plaid vest atop a medium blue plaid shirt, a necklace with a large gold ring, and long curly dark brown hair."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers and Performers",
+          "tag": "Colin Christie"
+        },
+        {
+          "category": "Speakers and Performers",
+          "tag": "Raymond Filip"
+        }
+      ],
+      "uuid": "16213880-65f2-46eb-8d98-08df954aa68b"
+    }
+  ],
   "set": "Default",
   "event_id": "a2dfd225-7422-406a-a1c3-627f17e05995",
   "source_id": "00928a32-26c8-44de-be68-8e9176736df4"
