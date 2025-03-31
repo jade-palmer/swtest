@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "00928a32-26c8-44de-be68-8e9176736df4": {
+      "label": "xxx",
+      "is_offline": false,
+      "file_url": "https://youtu.be/zd5UNSy0zM0",
+      "duration": 2641,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Benefit test for \"performers: \" in tags with 2 people ",
+  "created_at": "2025-03-31T21:13:10.753Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-03-31T21:13:10.753Z",
+  "updated_by": "jade-palmer"
+}
