@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-02T17:17:48.536Z",
+  "created_by": "jade-palmer",
+  "title": "bad one to see what error messages are",
+  "slug": "bad-one-to-see-what-error-messages-are",
+  "updated_at": "2025-04-02T17:17:48.536Z",
+  "updated_by": "jade-palmer",
+  "parent": "a651dfb9-e827-4953-aff7-f9098bf232dc",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "78b2578f-8057-411c-8889-996f520a9c1f"
+  }
+}

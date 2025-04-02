@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "8677c6b9-6d2c-4cda-93ba-b81c1da20d3e": {
+      "label": "xxx",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=kkoNH2LOMEc",
+      "duration": 2057,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "bad one to see what error messages are",
+  "created_at": "2025-04-02T17:17:48.276Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-04-02T17:17:48.276Z",
+  "updated_by": "jade-palmer"
+}
