@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 11,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ambient sounds (voices)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio Description"
+        }
+      ],
+      "uuid": "8faa0492-da0a-42dc-8839-903bf92ac6a1"
+    },
+    {
+      "start_time": 11,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Colour video. A plain performance space (55 Avenue des Pins East, 2nd floor), with a large stageâas revealed later in clipâwith a microphone and long, grey curtains hanging from a rafter in the background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Video Description"
+        }
+      ],
+      "uuid": "257d2842-de0c-4a9f-ab6c-9460c7edce60"
+    },
+    {
+      "start_time": 12,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Addresses audience. Audience laughter. Introduces set and first poem, âFor Those Who Deny the Holocaustâ (from Surviving Words, The Musesâ Co., 1994)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "67407c33-ae5e-4672-844a-cb14ad4268dc"
+    },
+    {
+      "start_time": 12,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closeup of Endre Farkas addressing audience. Short salt-and-pepper hair, fedora, leather jacket."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "2dbd163c-928b-4efa-8beb-28a15f35ef76"
+    },
+    {
+      "start_time": 72,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reads âFor Those Who Deny the Holocaustâ about Ernst ZÃ¼ndel. Audience laughter throughout."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "8e45765e-f8b8-4b80-9e5f-617b7ac132ac"
+    },
+    {
+      "start_time": 72,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Endre Farkas reads, glancing down occasionally, then back up to look across the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "4e8de880-08e5-4519-80f0-aa733eeda472"
+    },
+    {
+      "start_time": 144,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, folksâ¦I really appreciate your time. Audience applause. Introduces âThe Missing Linkâ (from Surviving Words)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "81c8d21b-b22b-4f70-99f5-5341356bb9fd"
+    },
+    {
+      "start_time": 144,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Endre Farkas addresses audience, introducing the next poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Endre Farkas (he/him)"
+        }
+      ],
+      "uuid": "b1d1fcff-fce5-4c6b-8a71-24efe7fb33a8"
+    }
+  ],
   "set": "Default",
   "event_id": "78b2578f-8057-411c-8889-996f520a9c1f",
   "source_id": "8677c6b9-6d2c-4cda-93ba-b81c1da20d3e"
